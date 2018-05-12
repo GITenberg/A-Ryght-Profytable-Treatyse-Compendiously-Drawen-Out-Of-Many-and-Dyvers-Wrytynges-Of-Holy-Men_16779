@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6932'
     url: http://www.gutenberg.org/2009/agents/6932
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16779#A-Ryght-Profytable-Treatyse-Compendiously-Drawen-Out-Of-Many-and-Dyvers-Wrytynges-Of-Holy-Men
 gutenberg_issued: '2005-10-02'
 gutenberg_type: Text
 identifiers:
