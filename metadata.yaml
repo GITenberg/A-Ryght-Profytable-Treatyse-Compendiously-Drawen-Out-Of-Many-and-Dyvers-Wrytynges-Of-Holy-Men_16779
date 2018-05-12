@@ -1,0 +1,25 @@
+_repo: A-Ryght-Profytable-Treatyse-Compendiously-Drawen-Out-Of-Many-and-Dyvers-Wrytynges-Of-Holy-Men_16779
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Betson, Thomas
+    gutenberg_agent_id: '6932'
+    url: http://www.gutenberg.org/2009/agents/6932
+description: ''
+gutenberg_issued: '2005-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian life'
+title: A Ryght Profytable Treatyse Compendiously Drawen Out Of Many and Dyvers Wrytynges
+  Of Holy Men
+url: http://www.gutenberg.org/ebooks/16779
